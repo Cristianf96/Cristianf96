@@ -12,4 +12,4 @@
 ### Style Libraries:
 [![My Skills](https://skillicons.dev/icons?i=tailwind,sass,materialui)](https://skillicons.dev)
 ### Testing:
-[![My Skills](https://skillicons.dev/icons?i=cypress,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cypress,jest&theme=light)](https://skillicons.dev)
